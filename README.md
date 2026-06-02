@@ -23,9 +23,9 @@ Projects are flexible. The descriptions below outline the core ideas and goals, 
 
 | # | Title | Level | Duration | Topic |
 |---|-------|-------|----------|-------|
-| 01 | [Project title](projects/database.md)   | MSc | 3-6 months | Between-dataset differences |
-| 02 | [Project title](projects/volatility.md) | MSc | 3-6 months | Volatility in learning |
-| 03 | [Project title](projects/sequential.md) | MSc | 3-6 months | Sequential effects in decision making |
+| 01 | [Parameter Variability Across Open-Access Datasets](projects/database.md)   | MSc | 3-6 months | Between-dataset differences |
+| 02 | [Volatility-Dependent Learning Rates](projects/volatility.md) | MSc | 3-6 months | Volatility in learning |
+| 03 | [The Cognitive Basis of Sequential Effects](projects/sequential.md) | MSc | 3-6 months | Sequential effects in decision making |
 
 ---
 
