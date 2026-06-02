@@ -38,8 +38,10 @@ Projects are flexible. The descriptions below outline the core ideas and goals, 
 ---
 
 ## About
-Steven Miletic
+Steven Miletić
+
 Assistant Professor, Cognitive Psychology, Leiden University
+
 ✉️s.miletic@fsw.leidenuniv.nl
 
 *Last updated: June 2026*
