@@ -6,6 +6,14 @@ If you are interested in any of the projects below, feel free to reach out via t
 
 ---
 
+## Research context
+
+My research focuses on formal cognitive models of decision making and (error-driven) learning, and the neural mechanisms that underlie them. I use mathematical and computational models to understand *how* and *why* people make the decisions they do — and what goes on in the brain when they do so.
+
+Students working on projects with me will gain hands-on experience in **computational cognitive modelling**: building, fitting, and interpreting formal models of human behaviour. This is a slightly different and much more formal approach to cognitive psychology than often taught in Bachelor programmes on Psychology, so there'll be plenty to learn!
+
+---
+
 ## What to expect
 
 ### Embedding
